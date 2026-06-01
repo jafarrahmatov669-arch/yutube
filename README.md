@@ -46,12 +46,12 @@ header{
 <div class="container">
 
 <div class="card">
-<img src="https://picsum.photos/500/300?1" alt="">
+<img src="" alt="">
 <h3>Chiroyli Tabiat</h3>
 </div>
 
 <div class="card">
-<img src="https://picsum.photos/500/300?2" alt="">
+<img src="" alt="">
 <h3>Shahar Manzarasi</h3>
 </div>
 
